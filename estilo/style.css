@@ -145,6 +145,8 @@
             list-style-type: '\2714\0020\0020'; 
             columns: 2; 
             list-style-position: inside;
+            margin-top: 15px;
+            margin-bottom: 15px;
         }
         div.video{
             position: relative;
